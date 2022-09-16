@@ -1,4 +1,5 @@
 # Example app for CI Hexlet course
+[![Actions Status](https://github.com/SvetlanaAkaemova/hexlet-ci-app/workflows/Python%20CI/badge.svg)](https://github.com/SvetlanaAkaemova/hexlet-ci-app/actions)
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
 
